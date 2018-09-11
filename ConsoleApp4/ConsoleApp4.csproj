@@ -43,8 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MatchupModel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RatingModel.cs" />
+    <Compile Include="TeamModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
